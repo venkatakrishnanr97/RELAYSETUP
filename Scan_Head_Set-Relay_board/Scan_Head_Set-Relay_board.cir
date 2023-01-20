@@ -1,0 +1,224 @@
+.title KiCad schematic
+J1 unconnected-_J1-Pad1_ SH3SELECT SH2SELECT SH1SELECT +12V +12V +12V +12V +12V +12V Screw_Terminal_01x10
+J2 DGND DGND DGND DGND DGND AGND AGND AGND AGND AGND Screw_Terminal_01x10
+U2 AGND AGND unconnected-_U2-Pad3_ unconnected-_U2-Pad4_ unconnected-_U2-Pad5_ unconnected-_U2-Pad6_ unconnected-_U2-Pad7_ AGND AGND AGND AGND unconnected-_U2-Pad12_ unconnected-_U2-Pad13_ unconnected-_U2-Pad14_ unconnected-_U2-Pad15_ unconnected-_U2-Pad16_ unconnected-_U2-Pad17_ unconnected-_U2-Pad18_ unconnected-_U2-Pad19_ AGND AGND unconnected-_U2-Pad22_ unconnected-_U2-Pad23_ unconnected-_U2-Pad24_ unconnected-_U2-Pad25_ unconnected-_U2-Pad26_ unconnected-_U2-Pad27_ unconnected-_U2-Pad28_ unconnected-_U2-Pad29_ AGND AGND unconnected-_U2-Pad32_ unconnected-_U2-Pad33_ unconnected-_U2-Pad34_ unconnected-_U2-Pad35_ unconnected-_U2-Pad36_ unconnected-_U2-Pad37_ unconnected-_U2-Pad38_ unconnected-_U2-Pad39_ AGND AGND unconnected-_U2-Pad42_ unconnected-_U2-Pad43_ unconnected-_U2-Pad44_ unconnected-_U2-Pad45_ unconnected-_U2-Pad46_ unconnected-_U2-Pad47_ unconnected-_U2-Pad48_ unconnected-_U2-Pad49_ AGND AGND unconnected-_U2-Pad52_ unconnected-_U2-Pad53_ unconnected-_U2-Pad54_ unconnected-_U2-Pad55_ unconnected-_U2-Pad56_ unconnected-_U2-Pad57_ unconnected-_U2-Pad58_ unconnected-_U2-Pad59_ AGND AGND unconnected-_U2-Pad62_ unconnected-_U2-Pad63_ unconnected-_U2-Pad64_ unconnected-_U2-Pad65_ unconnected-_U2-Pad66_ unconnected-_U2-Pad67_ unconnected-_U2-Pad68_ unconnected-_U2-Pad69_ AGND AGND unconnected-_U2-Pad72_ unconnected-_U2-Pad73_ unconnected-_U2-Pad74_ unconnected-_U2-Pad75_ unconnected-_U2-Pad76_ unconnected-_U2-Pad77_ unconnected-_U2-Pad78_ unconnected-_U2-Pad79_ AGND AGND unconnected-_U2-Pad82_ unconnected-_U2-Pad83_ unconnected-_U2-Pad84_ unconnected-_U2-Pad85_ unconnected-_U2-Pad86_ unconnected-_U2-Pad87_ unconnected-_U2-Pad88_ unconnected-_U2-Pad89_ AGND AGND /IO93-1 /IO94-1 /IO95-1 /IO96-1 /IO97-1 /IO98-1 /IO99-1 /IO100-1 AGND AGND /IO92-1 /IO91-1 /IO90-1 /IO89-1 /IO104-1 /IO103-1 /IO102-1 /IO101-1 AGND AGND /IO85-1 /IO86-1 /IO87-1 /IO88-1 /IO105-1 /IO106-1 /IO107-1 /IO108-1 AGND AGND /IO84-1 /IO83-1 /IO82-1 /IO81-1 /IO112-1 /IO111-1 /IO110-1 /IO109-1 AGND AGND /IO77-1 /IO78-1 /IO79-1 /IO80-1 /IO113-1 /IO114-1 /IO115-1 /IO116-1 AGND AGND /IO76-1 /IO75-1 /IO74-1 /IO73-1 /IO120-1 /IO119-1 /IO118-1 /IO117-1 AGND AGND /IO69-1 /IO70-1 /IO71-1 /IO72-1 /IO121-1 /IO122-1 /IO123-1 /IO124-1 AGND AGND /IO68-1 /IO67-1 /IO66-1 /IO65-1 /IO128-1 /IO127-1 /IO126-1 /IO125-1 AGND AGND /IO4-1 /IO3-1 IO2-1 IO1-1 /IO64-1 /IO63-1 /IO62-1 /IO61-1 AGND AGND /IO5-1 /IO6-1 /IO7-1 /IO8-1 /IO57-1 /IO58-1 /IO59-1 /IO60-1 AGND AGND /IO12-1 /IO11-1 /IO10-1 /IO9-1 /IO56-1 /IO55-1 /IO54-1 /IO53-1 AGND AGND /IO13-1 /IO14-1 /IO15-1 /IO16-1 /IO49-1 /IO50-1 /IO51-1 /IO52-1 AGND AGND /IO20-1 /IO19-1 /IO18-1 /IO17-1 /IO48-1 /IO47-1 /IO46-1 /IO45-1 AGND AGND /IO21-1 /IO22-1 /IO23-1 /IO24-1 /IO41-1 /IO42-1 /IO43-1 /IO44-1 AGND AGND /IO28-1 /IO27-1 /IO26-1 /IO25-1 /IO40-1 /IO39-1 /IO38-1 /IO37-1 AGND AGND /IO29-1 /IO30-1 /IO31-1 /IO32-1 /IO33-1 /IO34-1 /IO35-1 /IO36-1 AGND AGND AGND AGND unconnected-_U2-Pad254_ unconnected-_U2-Pad255_ unconnected-_U2-Pad256_ unconnected-_U2-Pad257_ AGND AGND AGND DL5-260RW6
+U4 AGND AGND unconnected-_U4-Pad3_ unconnected-_U4-Pad4_ unconnected-_U4-Pad5_ unconnected-_U4-Pad6_ unconnected-_U4-Pad7_ AGND AGND AGND AGND unconnected-_U4-Pad12_ unconnected-_U4-Pad13_ unconnected-_U4-Pad14_ unconnected-_U4-Pad15_ unconnected-_U4-Pad16_ unconnected-_U4-Pad17_ unconnected-_U4-Pad18_ unconnected-_U4-Pad19_ AGND AGND unconnected-_U4-Pad22_ unconnected-_U4-Pad23_ unconnected-_U4-Pad24_ unconnected-_U4-Pad25_ unconnected-_U4-Pad26_ unconnected-_U4-Pad27_ unconnected-_U4-Pad28_ unconnected-_U4-Pad29_ AGND AGND unconnected-_U4-Pad32_ unconnected-_U4-Pad33_ unconnected-_U4-Pad34_ unconnected-_U4-Pad35_ unconnected-_U4-Pad36_ unconnected-_U4-Pad37_ unconnected-_U4-Pad38_ unconnected-_U4-Pad39_ AGND AGND unconnected-_U4-Pad42_ unconnected-_U4-Pad43_ unconnected-_U4-Pad44_ unconnected-_U4-Pad45_ unconnected-_U4-Pad46_ unconnected-_U4-Pad47_ unconnected-_U4-Pad48_ unconnected-_U4-Pad49_ AGND AGND unconnected-_U4-Pad52_ unconnected-_U4-Pad53_ unconnected-_U4-Pad54_ unconnected-_U4-Pad55_ unconnected-_U4-Pad56_ unconnected-_U4-Pad57_ unconnected-_U4-Pad58_ unconnected-_U4-Pad59_ AGND AGND unconnected-_U4-Pad62_ unconnected-_U4-Pad63_ unconnected-_U4-Pad64_ unconnected-_U4-Pad65_ unconnected-_U4-Pad66_ unconnected-_U4-Pad67_ unconnected-_U4-Pad68_ unconnected-_U4-Pad69_ AGND AGND unconnected-_U4-Pad72_ unconnected-_U4-Pad73_ unconnected-_U4-Pad74_ unconnected-_U4-Pad75_ unconnected-_U4-Pad76_ unconnected-_U4-Pad77_ unconnected-_U4-Pad78_ unconnected-_U4-Pad79_ AGND AGND unconnected-_U4-Pad82_ unconnected-_U4-Pad83_ unconnected-_U4-Pad84_ unconnected-_U4-Pad85_ unconnected-_U4-Pad86_ unconnected-_U4-Pad87_ unconnected-_U4-Pad88_ unconnected-_U4-Pad89_ AGND AGND /IO93-3 /IO94-3 /IO95-3 /IO96-3 /IO97-3 /IO98-3 /IO99-3 /IO100-3 AGND AGND /IO92-3 /IO91-3 /IO90-3 /IO89-3 /IO104-3 /IO103-3 /IO102-3 /IO101-3 AGND AGND /IO85-3 /IO86-3 /IO87-3 /IO88-3 /IO105-3 /IO106-3 /IO107-3 /IO108-3 AGND AGND /IO84-3 /IO83-3 /IO82-3 /IO81-3 /IO112-3 /IO111-3 /IO110-3 /IO109-3 AGND AGND /IO77-3 /IO78-3 /IO79-3 /IO80-3 /IO113-3 /IO114-3 /IO115-3 /IO116-3 AGND AGND /IO76-3 /IO75-3 /IO74-3 /IO73-3 /IO120-3 /IO119-3 /IO118-3 /IO117-3 AGND AGND /IO69-3 /IO70-3 /IO71-3 /IO72-3 /IO121-3 /IO122-3 /IO123-3 /IO124-3 AGND AGND /IO68-3 /IO67-3 /IO66-3 /IO65-3 /IO128-3 /IO127-3 /IO126-3 /IO125-3 AGND AGND /IO4-3 /IO3-3 /IO2-3 /IO1-3 /IO64-3 /IO63-3 /IO62-3 /IO61-3 AGND AGND /IO5-3 /IO6-3 /IO7-3 /IO8-3 /IO57-3 /IO58-3 /IO59-3 /IO60-3 AGND AGND /IO12-3 /IO11-3 /IO10-3 /IO9-3 /IO56-3 /IO55-3 /IO54-3 /IO53-3 AGND AGND /IO13-3 /IO14-3 /IO15-3 /IO16-3 /IO49-3 /IO50-3 /IO51-3 /IO52-3 AGND AGND /IO20-3 /IO19-3 /IO18-3 /IO17-3 /IO48-3 /IO47-3 /IO46-3 /IO45-3 AGND AGND /IO21-3 /IO22-3 /IO23-3 /IO24-3 /IO41-3 /IO42-3 /IO43-3 /IO44-3 AGND AGND /IO28-3 /IO27-3 /IO26-3 /IO25-3 /IO40-3 /IO39-3 /IO38-3 /IO37-3 AGND AGND /IO29-3 /IO30-3 /IO31-3 /IO32-3 /IO33-3 /IO34-3 /IO35-3 /IO36-3 AGND AGND AGND AGND unconnected-_U4-Pad254_ unconnected-_U4-Pad255_ unconnected-_U4-Pad256_ unconnected-_U4-Pad257_ AGND AGND AGND DL5-260RW6
+U3 AGND AGND unconnected-_U3-Pad3_ unconnected-_U3-Pad4_ unconnected-_U3-Pad5_ unconnected-_U3-Pad6_ unconnected-_U3-Pad7_ AGND AGND AGND AGND unconnected-_U3-Pad12_ unconnected-_U3-Pad13_ unconnected-_U3-Pad14_ unconnected-_U3-Pad15_ unconnected-_U3-Pad16_ unconnected-_U3-Pad17_ unconnected-_U3-Pad18_ unconnected-_U3-Pad19_ AGND AGND unconnected-_U3-Pad22_ unconnected-_U3-Pad23_ unconnected-_U3-Pad24_ unconnected-_U3-Pad25_ unconnected-_U3-Pad26_ unconnected-_U3-Pad27_ unconnected-_U3-Pad28_ unconnected-_U3-Pad29_ AGND AGND unconnected-_U3-Pad32_ unconnected-_U3-Pad33_ unconnected-_U3-Pad34_ unconnected-_U3-Pad35_ unconnected-_U3-Pad36_ unconnected-_U3-Pad37_ unconnected-_U3-Pad38_ unconnected-_U3-Pad39_ AGND AGND unconnected-_U3-Pad42_ unconnected-_U3-Pad43_ unconnected-_U3-Pad44_ unconnected-_U3-Pad45_ unconnected-_U3-Pad46_ unconnected-_U3-Pad47_ unconnected-_U3-Pad48_ unconnected-_U3-Pad49_ AGND AGND unconnected-_U3-Pad52_ unconnected-_U3-Pad53_ unconnected-_U3-Pad54_ unconnected-_U3-Pad55_ unconnected-_U3-Pad56_ unconnected-_U3-Pad57_ unconnected-_U3-Pad58_ unconnected-_U3-Pad59_ AGND AGND unconnected-_U3-Pad62_ unconnected-_U3-Pad63_ unconnected-_U3-Pad64_ unconnected-_U3-Pad65_ unconnected-_U3-Pad66_ unconnected-_U3-Pad67_ unconnected-_U3-Pad68_ unconnected-_U3-Pad69_ AGND AGND unconnected-_U3-Pad72_ unconnected-_U3-Pad73_ unconnected-_U3-Pad74_ unconnected-_U3-Pad75_ unconnected-_U3-Pad76_ unconnected-_U3-Pad77_ unconnected-_U3-Pad78_ unconnected-_U3-Pad79_ AGND AGND unconnected-_U3-Pad82_ unconnected-_U3-Pad83_ unconnected-_U3-Pad84_ unconnected-_U3-Pad85_ unconnected-_U3-Pad86_ unconnected-_U3-Pad87_ unconnected-_U3-Pad88_ unconnected-_U3-Pad89_ AGND AGND /IO93-2 /IO94-2 /IO95-2 /IO96-2 /IO97-2 /IO98-2 /IO99-2 /IO100-2 AGND AGND /IO92-2 /IO91-2 /IO90-2 /IO89-2 /IO104-2 /IO103-2 /IO102-2 /IO101-2 AGND AGND /IO85-2 /IO86-2 /IO87-2 /IO88-2 /IO105-2 /IO106-2 /IO107-2 /IO108-2 AGND AGND /IO84-2 /IO83-2 /IO82-2 /IO81-2 /IO112-2 /IO111-2 /IO110-2 /IO109-2 AGND AGND /IO77-2 /IO78-2 /IO79-2 /IO80-2 /IO113-2 /IO114-2 /IO115-2 /IO116-2 AGND AGND /IO76-2 /IO75-2 /IO74-2 /IO73-2 /IO120-2 /IO119-2 /IO118-2 /IO117-2 AGND AGND /IO69-2 /IO70-2 /IO71-2 /IO72-2 /IO121-2 /IO122-2 /IO123-2 /IO124-2 AGND AGND /IO68-2 /IO67-2 /IO66-2 /IO65-2 /IO128-2 /IO127-2 /IO126-2 /IO125-2 AGND AGND /IO4-2 /IO3-2 /IO2-2 /IO1-2 /IO64-2 /IO63-2 /IO62-2 /IO61-2 AGND AGND /IO5-2 /IO6-2 /IO7-2 /IO8-2 /IO57-2 /IO58-2 /IO59-2 /IO60-2 AGND AGND /IO12-2 /IO11-2 /IO10-2 /IO9-2 /IO56-2 /IO55-2 /IO54-2 /IO53-2 AGND AGND /IO13-2 /IO14-2 /IO15-2 /IO16-2 /IO49-2 /IO50-2 /IO51-2 /IO52-2 AGND AGND /IO20-2 /IO19-2 /IO18-2 /IO17-2 /IO48-2 /IO47-2 /IO46-2 /IO45-2 AGND AGND /IO21-2 /IO22-2 /IO23-2 /IO24-2 /IO41-2 /IO42-2 /IO43-2 /IO44-2 AGND AGND /IO28-2 /IO27-2 /IO26-2 /IO25-2 /IO40-2 /IO39-2 /IO38-2 /IO37-2 AGND AGND /IO29-2 /IO30-2 /IO31-2 /IO32-2 /IO33-2 /IO34-2 /IO35-2 /IO36-2 AGND AGND AGND AGND unconnected-_U3-Pad254_ unconnected-_U3-Pad255_ unconnected-_U3-Pad256_ unconnected-_U3-Pad257_ AGND AGND AGND DL5-260RW6
+U1 AGND AGND unconnected-_U1-Pad3_ unconnected-_U1-Pad4_ unconnected-_U1-Pad5_ unconnected-_U1-Pad6_ unconnected-_U1-Pad7_ AGND AGND AGND AGND unconnected-_U1-Pad12_ unconnected-_U1-Pad13_ unconnected-_U1-Pad14_ unconnected-_U1-Pad15_ unconnected-_U1-Pad16_ unconnected-_U1-Pad17_ unconnected-_U1-Pad18_ unconnected-_U1-Pad19_ AGND AGND unconnected-_U1-Pad22_ unconnected-_U1-Pad23_ unconnected-_U1-Pad24_ unconnected-_U1-Pad25_ unconnected-_U1-Pad26_ unconnected-_U1-Pad27_ unconnected-_U1-Pad28_ unconnected-_U1-Pad29_ AGND AGND unconnected-_U1-Pad32_ unconnected-_U1-Pad33_ unconnected-_U1-Pad34_ unconnected-_U1-Pad35_ unconnected-_U1-Pad36_ unconnected-_U1-Pad37_ unconnected-_U1-Pad38_ unconnected-_U1-Pad39_ AGND AGND unconnected-_U1-Pad42_ unconnected-_U1-Pad43_ unconnected-_U1-Pad44_ unconnected-_U1-Pad45_ unconnected-_U1-Pad46_ unconnected-_U1-Pad47_ unconnected-_U1-Pad48_ unconnected-_U1-Pad49_ AGND AGND unconnected-_U1-Pad52_ unconnected-_U1-Pad53_ unconnected-_U1-Pad54_ unconnected-_U1-Pad55_ unconnected-_U1-Pad56_ unconnected-_U1-Pad57_ unconnected-_U1-Pad58_ unconnected-_U1-Pad59_ AGND AGND unconnected-_U1-Pad62_ unconnected-_U1-Pad63_ unconnected-_U1-Pad64_ unconnected-_U1-Pad65_ unconnected-_U1-Pad66_ unconnected-_U1-Pad67_ unconnected-_U1-Pad68_ unconnected-_U1-Pad69_ AGND AGND unconnected-_U1-Pad72_ unconnected-_U1-Pad73_ unconnected-_U1-Pad74_ unconnected-_U1-Pad75_ unconnected-_U1-Pad76_ unconnected-_U1-Pad77_ unconnected-_U1-Pad78_ unconnected-_U1-Pad79_ AGND AGND unconnected-_U1-Pad82_ unconnected-_U1-Pad83_ unconnected-_U1-Pad84_ unconnected-_U1-Pad85_ unconnected-_U1-Pad86_ unconnected-_U1-Pad87_ unconnected-_U1-Pad88_ unconnected-_U1-Pad89_ AGND AGND /IO93 /IO94 /IO95 /IO96 /IO97 /IO98 /IO99 /IO100 AGND AGND /IO92 /IO91 /IO90 /IO89 /IO104 /IO103 /IO102 /IO101 AGND AGND /IO85 /IO86 /IO87 /IO88 /IO105 /IO106 /IO107 /IO108 AGND AGND /IO84 /IO83 /IO82 /IO81 /IO112 /IO111 /IO110 /IO109 AGND AGND /IO77 /IO78 /IO79 /IO80 /IO113 /IO114 /IO115 /IO116 AGND AGND /IO76 /IO75 /IO74 /IO73 /IO120 /IO119 /IO118 /IO117 AGND AGND /IO69 /IO70 /IO71 /IO72 /IO121 /IO122 /IO123 /IO124 AGND AGND /IO68 /IO67 /IO66 /IO65 /IO128 /IO127 /IO126 /IO125 AGND AGND /IO4 /IO3 IO2 IO1 /IO64 /IO63 /IO62 /IO61 AGND AGND /IO5 /IO6 /IO7 /IO8 /IO57 /IO58 /IO59 /IO60 AGND AGND /IO12 /IO11 /IO10 /IO9 /IO56 /IO55 /IO54 /IO53 AGND AGND /IO13 /IO14 /IO15 /IO16 /IO49 /IO50 /IO51 /IO52 AGND AGND /IO20 /IO19 /IO18 /IO17 /IO48 /IO47 /IO46 /IO45 AGND AGND /IO21 /IO22 /IO23 /IO24 /IO41 /IO42 /IO43 /IO44 AGND AGND /IO28 /IO27 /IO26 /IO25 /IO40 /IO39 /IO38 /IO37 AGND AGND /IO29 /IO30 /IO31 /IO32 /IO33 /IO34 /IO35 /IO36 AGND AGND AGND AGND unconnected-_U1-Pad254_ unconnected-_U1-Pad255_ unconnected-_U1-Pad256_ unconnected-_U1-Pad257_ AGND AGND AGND DL5-260RW6
+K7 AGND /Sheet_1/IO17 /Sheet_1/IO17-1 AGND /Sheet_1/IO18 /Sheet_1/IO18-1 Net-_K7-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K23 AGND /Sheet_1/IO49 /Sheet_1/IO49-1 AGND /Sheet_1/IO50 /Sheet_1/IO50-1 Net-_K23-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U6 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K10-PadA1_ Net-_K12-PadA1_ Net-_K11-PadA1_ Net-_K13-PadA1_ Net-_K14-PadA1_ Net-_K9-PadA1_ Net-_K16-PadA1_ Net-_K15-PadA1_ ULN2803APG
+K63 AGND /Sheet_1/IO97 /Sheet_1/IO97-1 AGND /Sheet_1/IO98 /Sheet_1/IO98-1 Net-_K63-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K64 AGND /Sheet_1/IO99 /Sheet_1/IO99-1 AGND /Sheet_1/IO100 /Sheet_1/IO100-1 Net-_K64-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K59 AGND /Sheet_1/IO107 /Sheet_1/IO107-1 AGND /Sheet_1/IO108 /Sheet_1/IO108-1 Net-_K59-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K61 AGND /Sheet_1/IO105 /Sheet_1/IO105-1 AGND /Sheet_1/IO106 /Sheet_1/IO106-1 Net-_K61-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U12 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K58-PadA1_ Net-_K60-PadA1_ Net-_K59-PadA1_ Net-_K61-PadA1_ Net-_K62-PadA1_ Net-_K57-PadA1_ Net-_K64-PadA1_ Net-_K63-PadA1_ ULN2803APG
+K62 AGND /Sheet_1/IO103 /Sheet_1/IO103-1 AGND /Sheet_1/IO104 /Sheet_1/IO104-1 Net-_K62-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K57 AGND /Sheet_1/IO101 /Sheet_1/IO101-1 AGND /Sheet_1/IO102 /Sheet_1/IO102-1 Net-_K57-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K58 AGND /Sheet_1/IO111 /Sheet_1/IO111-1 AGND /Sheet_1/IO112 /Sheet_1/IO112-1 Net-_K58-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K60 AGND /Sheet_1/IO109 /Sheet_1/IO109-1 AGND /Sheet_1/IO110 /Sheet_1/IO110-1 Net-_K60-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K48 AGND /Sheet_1/IO83 /Sheet_1/IO83-1 AGND /Sheet_1/IO84 /Sheet_1/IO84-1 Net-_K48-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K47 AGND /Sheet_1/IO81 /Sheet_1/IO81-1 AGND /Sheet_1/IO82 /Sheet_1/IO82-1 Net-_K47-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K46 AGND /Sheet_1/IO87 /Sheet_1/IO87-1 AGND /Sheet_1/IO88 /Sheet_1/IO88-1 Net-_K46-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K41 AGND /Sheet_1/IO85 /Sheet_1/IO85-1 AGND /Sheet_1/IO86 /Sheet_1/IO86-1 Net-_K41-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K44 AGND /Sheet_1/IO93 /Sheet_1/IO93-1 AGND /Sheet_1/IO94 /Sheet_1/IO94-1 Net-_K44-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K42 AGND /Sheet_1/IO95 /Sheet_1/IO95-1 AGND /Sheet_1/IO96 /Sheet_1/IO96-1 Net-_K42-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K45 AGND /Sheet_1/IO89 /Sheet_1/IO89-1 AGND /Sheet_1/IO90 /Sheet_1/IO90-1 Net-_K45-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K43 AGND /Sheet_1/IO91 /Sheet_1/IO91-1 AGND /Sheet_1/IO92 /Sheet_1/IO92-1 Net-_K43-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U10 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K42-PadA1_ Net-_K44-PadA1_ Net-_K43-PadA1_ Net-_K45-PadA1_ Net-_K46-PadA1_ Net-_K41-PadA1_ Net-_K48-PadA1_ Net-_K47-PadA1_ ULN2803APG
+U5 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K2-PadA1_ Net-_K4-PadA1_ Net-_K3-PadA1_ Net-_K5-PadA1_ Net-_K6-PadA1_ Net-_K1-PadA1_ Net-_K8-PadA1_ Net-_K7-PadA1_ ULN2803APG
+K1 AGND /Sheet_1/IO21 /Sheet_1/IO21-1 AGND /Sheet_1/IO22 /Sheet_1/IO22-1 Net-_K1-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K6 AGND /Sheet_1/IO23 /Sheet_1/IO23-1 AGND /Sheet_1/IO24 /Sheet_1/IO24-1 Net-_K6-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K5 AGND /Sheet_1/IO25 /Sheet_1/IO25-1 AGND /Sheet_1/IO26 /Sheet_1/IO26-1 Net-_K5-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K2 AGND /Sheet_1/IO31 /Sheet_1/IO31-1 AGND /Sheet_1/IO32 /Sheet_1/IO32-1 Net-_K2-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K4 AGND /Sheet_1/IO29 /Sheet_1/IO29-1 AGND /Sheet_1/IO30 /Sheet_1/IO30-1 Net-_K4-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K3 AGND /Sheet_1/IO27 /Sheet_1/IO27-1 AGND /Sheet_1/IO28 /Sheet_1/IO28-1 Net-_K3-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K8 AGND /Sheet_1/IO19 /Sheet_1/IO19-1 AGND /Sheet_1/IO20 /Sheet_1/IO20-1 Net-_K8-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U11 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K50-PadA1_ Net-_K52-PadA1_ Net-_K51-PadA1_ Net-_K53-PadA1_ Net-_K54-PadA1_ Net-_K49-PadA1_ Net-_K56-PadA1_ Net-_K55-PadA1_ ULN2803APG
+K53 AGND /Sheet_1/IO121 /Sheet_1/IO121-1 AGND /Sheet_1/IO122 /Sheet_1/IO122-1 Net-_K53-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K49 AGND /Sheet_1/IO117 /Sheet_1/IO117-1 AGND /Sheet_1/IO118 /Sheet_1/IO118-1 Net-_K49-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K54 AGND /Sheet_1/IO119 /Sheet_1/IO119-1 AGND /Sheet_1/IO120 /Sheet_1/IO120-1 Net-_K54-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K56 AGND /Sheet_1/IO115 /Sheet_1/IO115-1 AGND /Sheet_1/IO116 /Sheet_1/IO116-1 Net-_K56-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K55 AGND /Sheet_1/IO113 /Sheet_1/IO113-1 AGND /Sheet_1/IO114 /Sheet_1/IO114-1 Net-_K55-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K50 AGND /Sheet_1/IO127 /Sheet_1/IO127-1 AGND /Sheet_1/IO128 /Sheet_1/IO128-1 Net-_K50-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K52 AGND /Sheet_1/IO125 /Sheet_1/IO125-1 AGND /Sheet_1/IO126 /Sheet_1/IO126-1 Net-_K52-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K51 AGND /Sheet_1/IO123 /Sheet_1/IO123-1 AGND /Sheet_1/IO124 /Sheet_1/IO124-1 Net-_K51-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K15 AGND IO1 IO1-1 AGND IO2 IO2-1 Net-_K15-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K16 AGND /Sheet_1/IO3 /Sheet_1/IO3-1 AGND /Sheet_1/IO4 /Sheet_1/IO4-1 Net-_K16-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U8 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K26-PadA1_ Net-_K28-PadA1_ Net-_K27-PadA1_ Net-_K29-PadA1_ Net-_K30-PadA1_ Net-_K25-PadA1_ Net-_K32-PadA1_ Net-_K31-PadA1_ ULN2803APG
+K26 AGND /Sheet_1/IO47 /Sheet_1/IO47-1 AGND /Sheet_1/IO48 /Sheet_1/IO48-1 Net-_K26-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K28 AGND /Sheet_1/IO45 /Sheet_1/IO45-1 AGND /Sheet_1/IO46 /Sheet_1/IO46-1 Net-_K28-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K25 AGND /Sheet_1/IO37 /Sheet_1/IO37-1 AGND /Sheet_1/IO38 /Sheet_1/IO38-1 Net-_K25-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K32 AGND /Sheet_1/IO35 /Sheet_1/IO35-1 AGND /Sheet_1/IO36 /Sheet_1/IO36-1 Net-_K32-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K31 AGND /Sheet_1/IO33 /Sheet_1/IO33-1 AGND /Sheet_1/IO34 /Sheet_1/IO34-1 Net-_K31-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K30 AGND /Sheet_1/IO39 /Sheet_1/IO39-1 AGND /Sheet_1/IO40 /Sheet_1/IO40-1 Net-_K30-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K13 AGND /Sheet_1/IO9 /Sheet_1/IO9-1 AGND /Sheet_1/IO10 /Sheet_1/IO10-1 Net-_K13-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K12 AGND /Sheet_1/IO13 /Sheet_1/IO13-1 AGND /Sheet_1/IO14 /Sheet_1/IO14-1 Net-_K12-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K11 AGND /Sheet_1/IO11 /Sheet_1/IO11-1 AGND /Sheet_1/IO12 /Sheet_1/IO12-1 Net-_K11-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K10 AGND /Sheet_1/IO15 /Sheet_1/IO15-1 AGND /Sheet_1/IO16 /Sheet_1/IO16-1 Net-_K10-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K29 AGND /Sheet_1/IO41 /Sheet_1/IO41-1 AGND /Sheet_1/IO42 /Sheet_1/IO42-1 Net-_K29-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K27 AGND /Sheet_1/IO43 /Sheet_1/IO43-1 AGND /Sheet_1/IO44 /Sheet_1/IO44-1 Net-_K27-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K14 AGND /Sheet_1/IO7 /Sheet_1/IO7-1 AGND /Sheet_1/IO8 /Sheet_1/IO8-1 Net-_K14-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K9 AGND /Sheet_1/IO5 /Sheet_1/IO5-1 AGND /Sheet_1/IO6 /Sheet_1/IO6-1 Net-_K9-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K21 AGND /Sheet_1/IO57 /Sheet_1/IO57-1 AGND /Sheet_1/IO58 /Sheet_1/IO58-1 Net-_K21-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K22 AGND /Sheet_1/IO55 /Sheet_1/IO55-1 AGND /Sheet_1/IO56 /Sheet_1/IO56-1 Net-_K22-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U7 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K18-PadA1_ Net-_K20-PadA1_ Net-_K19-PadA1_ Net-_K21-PadA1_ Net-_K22-PadA1_ Net-_K17-PadA1_ Net-_K24-PadA1_ Net-_K23-PadA1_ ULN2803APG
+K19 AGND /Sheet_1/IO59 /Sheet_1/IO59-1 AGND /Sheet_1/IO60 /Sheet_1/IO60-1 Net-_K19-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K18 AGND /Sheet_1/IO63 /Sheet_1/IO63-1 AGND /Sheet_1/IO64 /Sheet_1/IO64-1 Net-_K18-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K20 AGND /Sheet_1/IO61 /Sheet_1/IO61-1 AGND /Sheet_1/IO62 /Sheet_1/IO62-1 Net-_K20-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K24 AGND /Sheet_1/IO51 /Sheet_1/IO51-1 AGND /Sheet_1/IO52 /Sheet_1/IO52-1 Net-_K24-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K17 AGND /Sheet_1/IO53 /Sheet_1/IO53-1 AGND /Sheet_1/IO54 /Sheet_1/IO54-1 Net-_K17-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U9 SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT SH1SELECT DGND /Sheet_1/+12V Net-_K34-PadA1_ Net-_K36-PadA1_ Net-_K35-PadA1_ Net-_K37-PadA1_ Net-_K38-PadA1_ Net-_K33-PadA1_ Net-_K40-PadA1_ Net-_K39-PadA1_ ULN2803APG
+K34 AGND /Sheet_1/IO79 /Sheet_1/IO79-1 AGND /Sheet_1/IO80 /Sheet_1/IO80-1 Net-_K34-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K33 AGND /Sheet_1/IO69 /Sheet_1/IO69-1 AGND /Sheet_1/IO70 /Sheet_1/IO70-1 Net-_K33-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K38 AGND /Sheet_1/IO71 /Sheet_1/IO71-1 AGND /Sheet_1/IO72 /Sheet_1/IO72-1 Net-_K38-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K40 AGND /Sheet_1/IO67 /Sheet_1/IO67-1 AGND /Sheet_1/IO68 /Sheet_1/IO68-1 Net-_K40-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K39 AGND /Sheet_1/IO65 /Sheet_1/IO65-1 AGND /Sheet_1/IO66 /Sheet_1/IO66-1 Net-_K39-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K37 AGND /Sheet_1/IO73 /Sheet_1/IO73-1 AGND /Sheet_1/IO74 /Sheet_1/IO74-1 Net-_K37-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K35 AGND /Sheet_1/IO75 /Sheet_1/IO75-1 AGND /Sheet_1/IO76 /Sheet_1/IO76-1 Net-_K35-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+K36 AGND /Sheet_1/IO77 /Sheet_1/IO77-1 AGND /Sheet_1/IO78 /Sheet_1/IO78-1 Net-_K36-PadA1_ /Sheet_1/+12V MR_DPDT12_2P
+U19 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K114-PadA1_ Net-_K116-PadA1_ Net-_K115-PadA1_ Net-_K117-PadA1_ Net-_K118-PadA1_ Net-_K113-PadA1_ Net-_K120-PadA1_ Net-_K119-PadA1_ ULN2803APG
+K120 AGND /Sheet_2/IO115 /Sheet_2/IO115-2 AGND /Sheet_2/IO116 /Sheet_2/IO116-2 Net-_K120-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K119 AGND /Sheet_2/IO113 /Sheet_2/IO113-2 AGND /Sheet_2/IO114 /Sheet_2/IO114-2 Net-_K119-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K116 AGND /Sheet_2/IO125 /Sheet_2/IO125-2 AGND /Sheet_2/IO126 /Sheet_2/IO126-2 Net-_K116-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K114 AGND /Sheet_2/IO127 /Sheet_2/IO127-2 AGND /Sheet_2/IO128 /Sheet_2/IO128-2 Net-_K114-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K117 AGND /Sheet_2/IO121 /Sheet_2/IO121-2 AGND /Sheet_2/IO122 /Sheet_2/IO122-2 Net-_K117-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K115 AGND /Sheet_2/IO123 /Sheet_2/IO123-2 AGND /Sheet_2/IO124 /Sheet_2/IO124-2 Net-_K115-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K118 AGND /Sheet_2/IO119 /Sheet_2/IO119-2 AGND /Sheet_2/IO120 /Sheet_2/IO120-2 Net-_K118-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K113 AGND /Sheet_2/IO117 /Sheet_2/IO117-2 AGND /Sheet_2/IO118 /Sheet_2/IO118-2 Net-_K113-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+U16 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K90-PadA1_ Net-_K92-PadA1_ Net-_K91-PadA1_ Net-_K93-PadA1_ Net-_K94-PadA1_ Net-_K89-PadA1_ Net-_K96-PadA1_ Net-_K95-PadA1_ ULN2803APG
+K96 AGND /Sheet_2/IO35 /Sheet_2/IO35-2 AGND /Sheet_2/IO36 /Sheet_2/IO36-2 Net-_K96-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K95 AGND /Sheet_2/IO33 /Sheet_2/IO33-2 AGND /Sheet_2/IO34 /Sheet_2/IO34-2 Net-_K95-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K89 AGND /Sheet_2/IO37 /Sheet_2/IO37-2 AGND /Sheet_2/IO38 /Sheet_2/IO38-2 Net-_K89-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K91 AGND /Sheet_2/IO43 /Sheet_2/IO43-2 AGND /Sheet_2/IO44 /Sheet_2/IO44-2 Net-_K91-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K92 AGND /Sheet_2/IO45 /Sheet_2/IO45-2 AGND /Sheet_2/IO46 /Sheet_2/IO46-2 Net-_K92-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K93 AGND /Sheet_2/IO41 /Sheet_2/IO41-2 AGND /Sheet_2/IO42 /Sheet_2/IO42-2 Net-_K93-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K94 AGND /Sheet_2/IO39 /Sheet_2/IO39-2 AGND /Sheet_2/IO40 /Sheet_2/IO40-2 Net-_K94-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K90 AGND /Sheet_2/IO47 /Sheet_2/IO47-2 AGND /Sheet_2/IO48 /Sheet_2/IO48-2 Net-_K90-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+U13 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K66-PadA1_ Net-_K68-PadA1_ Net-_K67-PadA1_ Net-_K69-PadA1_ Net-_K70-PadA1_ Net-_K65-PadA1_ Net-_K72-PadA1_ Net-_K71-PadA1_ ULN2803APG
+K66 AGND /Sheet_2/IO31 /Sheet_2/IO31-2 AGND /Sheet_2/IO32 /Sheet_2/IO32-2 Net-_K66-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K68 AGND /Sheet_2/IO29 /Sheet_2/IO29-2 AGND /Sheet_2/IO30 /Sheet_2/IO30-2 Net-_K68-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K69 AGND /Sheet_2/IO25 /Sheet_2/IO25-2 AGND /Sheet_2/IO26 /Sheet_2/IO26-2 Net-_K69-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K67 AGND /Sheet_2/IO27 /Sheet_2/IO27-2 AGND /Sheet_2/IO28 /Sheet_2/IO28-2 Net-_K67-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K70 AGND /Sheet_2/IO23 /Sheet_2/IO23-2 AGND /Sheet_2/IO24 /Sheet_2/IO24-2 Net-_K70-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K65 AGND /Sheet_2/IO21 /Sheet_2/IO21-2 AGND /Sheet_2/IO22 /Sheet_2/IO22-2 Net-_K65-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K71 AGND /Sheet_2/IO17 /Sheet_2/IO17-2 AGND /Sheet_2/IO18 /Sheet_2/IO18-2 Net-_K71-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K72 AGND /Sheet_2/IO19 /Sheet_2/IO19-2 AGND /Sheet_2/IO20 /Sheet_2/IO20-2 Net-_K72-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K104 AGND /Sheet_2/IO67 /Sheet_2/IO67-2 AGND /Sheet_2/IO68 /Sheet_2/IO68-2 Net-_K104-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K101 AGND /Sheet_2/IO73 /Sheet_2/IO73-2 AGND /Sheet_2/IO74 /Sheet_2/IO74-2 Net-_K101-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K102 AGND /Sheet_2/IO71 /Sheet_2/IO71-2 AGND /Sheet_2/IO72 /Sheet_2/IO72-2 Net-_K102-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K103 AGND /Sheet_2/IO65 /Sheet_2/IO65-2 AGND /Sheet_2/IO66 /Sheet_2/IO66-2 Net-_K103-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K97 AGND /Sheet_2/IO69 /Sheet_2/IO69-2 AGND /Sheet_2/IO70 /Sheet_2/IO70-2 Net-_K97-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K100 AGND /Sheet_2/IO77 /Sheet_2/IO77-2 AGND /Sheet_2/IO78 /Sheet_2/IO78-2 Net-_K100-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K98 AGND /Sheet_2/IO79 /Sheet_2/IO79-2 AGND /Sheet_2/IO80 /Sheet_2/IO80-2 Net-_K98-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K99 AGND /Sheet_2/IO75 /Sheet_2/IO75-2 AGND /Sheet_2/IO76 /Sheet_2/IO76-2 Net-_K99-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+U17 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K98-PadA1_ Net-_K100-PadA1_ Net-_K99-PadA1_ Net-_K101-PadA1_ Net-_K102-PadA1_ Net-_K97-PadA1_ Net-_K104-PadA1_ Net-_K103-PadA1_ ULN2803APG
+U20 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K122-PadA1_ Net-_K124-PadA1_ Net-_K123-PadA1_ Net-_K125-PadA1_ Net-_K126-PadA1_ Net-_K121-PadA1_ Net-_K128-PadA1_ Net-_K127-PadA1_ ULN2803APG
+K122 AGND /Sheet_2/IO111 /Sheet_2/IO111-2 AGND /Sheet_2/IO112 /Sheet_2/IO112-2 Net-_K122-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K125 AGND /Sheet_2/IO105 /Sheet_2/IO105-2 AGND /Sheet_2/IO106 /Sheet_2/IO106-2 Net-_K125-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K124 AGND /Sheet_2/IO109 /Sheet_2/IO109-2 AGND /Sheet_2/IO110 /Sheet_2/IO110-2 Net-_K124-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K123 AGND /Sheet_2/IO107 /Sheet_2/IO107-2 AGND /Sheet_2/IO108 /Sheet_2/IO108-2 Net-_K123-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K126 AGND /Sheet_2/IO103 /Sheet_2/IO103-2 AGND /Sheet_2/IO104 /Sheet_2/IO104-2 Net-_K126-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K121 AGND /Sheet_2/IO101 /Sheet_2/IO101-2 AGND /Sheet_2/IO102 /Sheet_2/IO102-2 Net-_K121-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K127 AGND /Sheet_2/IO97 /Sheet_2/IO97-2 AGND /Sheet_2/IO98 /Sheet_2/IO98-2 Net-_K127-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K128 AGND /Sheet_2/IO99 /Sheet_2/IO99-2 AGND /Sheet_2/IO100 /Sheet_2/IO100-2 Net-_K128-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+U15 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K82-PadA1_ Net-_K84-PadA1_ Net-_K83-PadA1_ Net-_K85-PadA1_ Net-_K86-PadA1_ Net-_K81-PadA1_ Net-_K88-PadA1_ Net-_K87-PadA1_ ULN2803APG
+K83 AGND /Sheet_2/IO59 /Sheet_2/IO59-2 AGND /Sheet_2/IO60 /Sheet_2/IO60-2 Net-_K83-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K84 AGND /Sheet_2/IO61 /Sheet_2/IO61-2 AGND /Sheet_2/IO62 /Sheet_2/IO62-2 Net-_K84-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K82 AGND /Sheet_2/IO63 /Sheet_2/IO63-2 AGND /Sheet_2/IO64 /Sheet_2/IO64-2 Net-_K82-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K85 AGND /Sheet_2/IO57 /Sheet_2/IO57-2 AGND /Sheet_2/IO58 /Sheet_2/IO58-2 Net-_K85-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K88 AGND /Sheet_2/IO51 /Sheet_2/IO51-2 AGND /Sheet_2/IO52 /Sheet_2/IO52-2 Net-_K88-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K87 AGND /Sheet_2/IO49 /Sheet_2/IO49-2 AGND /Sheet_2/IO50 /Sheet_2/IO50-2 Net-_K87-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K81 AGND /Sheet_2/IO53 /Sheet_2/IO53-2 AGND /Sheet_2/IO54 /Sheet_2/IO54-2 Net-_K81-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K86 AGND /Sheet_2/IO55 /Sheet_2/IO55-2 AGND /Sheet_2/IO56 /Sheet_2/IO56-2 Net-_K86-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K110 AGND /Sheet_2/IO87 /Sheet_2/IO87-2 AGND /Sheet_2/IO88 /Sheet_2/IO88-2 Net-_K110-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K105 AGND /Sheet_2/IO85 /Sheet_2/IO85-2 AGND /Sheet_2/IO86 /Sheet_2/IO86-2 Net-_K105-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K109 AGND /Sheet_2/IO89 /Sheet_2/IO89-2 AGND /Sheet_2/IO90 /Sheet_2/IO90-2 Net-_K109-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K111 AGND /Sheet_2/IO81 /Sheet_2/IO81-2 AGND /Sheet_2/IO82 /Sheet_2/IO82-2 Net-_K111-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K112 AGND /Sheet_2/IO83 /Sheet_2/IO83-2 AGND /Sheet_2/IO84 /Sheet_2/IO84-2 Net-_K112-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+U18 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K106-PadA1_ Net-_K108-PadA1_ Net-_K107-PadA1_ Net-_K109-PadA1_ Net-_K110-PadA1_ Net-_K105-PadA1_ Net-_K112-PadA1_ Net-_K111-PadA1_ ULN2803APG
+K106 AGND /Sheet_2/IO95 /Sheet_2/IO95-2 AGND /Sheet_2/IO96 /Sheet_2/IO96-2 Net-_K106-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K108 AGND /Sheet_2/IO93 /Sheet_2/IO93-2 AGND /Sheet_2/IO94 /Sheet_2/IO94-2 Net-_K108-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K107 AGND /Sheet_2/IO91 /Sheet_2/IO91-2 AGND /Sheet_2/IO92 /Sheet_2/IO92-2 Net-_K107-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+U14 SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT SH2SELECT DGND /Sheet_2/+12V Net-_K74-PadA1_ Net-_K76-PadA1_ Net-_K75-PadA1_ Net-_K77-PadA1_ Net-_K78-PadA1_ Net-_K73-PadA1_ Net-_K80-PadA1_ Net-_K79-PadA1_ ULN2803APG
+K77 AGND /Sheet_2/IO9 /Sheet_2/IO9-2 AGND /Sheet_2/IO10 /Sheet_2/IO10-2 Net-_K77-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K75 AGND /Sheet_2/IO11 /Sheet_2/IO11-2 AGND /Sheet_2/IO12 /Sheet_2/IO12-2 Net-_K75-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K76 AGND /Sheet_2/IO13 /Sheet_2/IO13-2 AGND /Sheet_2/IO14 /Sheet_2/IO14-2 Net-_K76-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K74 AGND /Sheet_2/IO15 /Sheet_2/IO15-2 AGND /Sheet_2/IO16 /Sheet_2/IO16-2 Net-_K74-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K80 AGND /Sheet_2/IO3 /Sheet_2/IO3-2 AGND /Sheet_2/IO4 /Sheet_2/IO4-2 Net-_K80-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K79 AGND /Sheet_2/IO1 /Sheet_2/IO1-2 AGND /Sheet_2/IO2 /Sheet_2/IO2-2 Net-_K79-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K78 AGND /Sheet_2/IO7 /Sheet_2/IO7-2 AGND /Sheet_2/IO8 /Sheet_2/IO8-2 Net-_K78-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K73 AGND /Sheet_2/IO5 /Sheet_2/IO5-2 AGND /Sheet_2/IO6 /Sheet_2/IO6-2 Net-_K73-PadA1_ /Sheet_2/+12V MR_DPDT12_2P
+K181 AGND /Sheet-3/IO121 /Sheet-3/IO121-3 AGND /Sheet-3/IO122 /Sheet-3/IO122-3 Net-_K181-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K182 AGND /Sheet-3/IO119 /Sheet-3/IO119-3 AGND /Sheet-3/IO120 /Sheet-3/IO120-3 Net-_K182-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K180 AGND /Sheet-3/IO125 /Sheet-3/IO125-3 AGND /Sheet-3/IO126 /Sheet-3/IO126-3 Net-_K180-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K178 AGND /Sheet-3/IO127 /Sheet-3/IO127-3 AGND /Sheet-3/IO128 /Sheet-3/IO128-3 Net-_K178-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K179 AGND /Sheet-3/IO123 /Sheet-3/IO123-3 AGND /Sheet-3/IO124 /Sheet-3/IO124-3 Net-_K179-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U27 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K178-PadA1_ Net-_K180-PadA1_ Net-_K179-PadA1_ Net-_K181-PadA1_ Net-_K182-PadA1_ Net-_K177-PadA1_ Net-_K184-PadA1_ Net-_K183-PadA1_ ULN2803APG
+K177 AGND /Sheet-3/IO117 /Sheet-3/IO117-3 AGND /Sheet-3/IO118 /Sheet-3/IO118-3 Net-_K177-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K184 AGND /Sheet-3/IO115 /Sheet-3/IO115-3 AGND /Sheet-3/IO116 /Sheet-3/IO116-3 Net-_K184-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K158 AGND /Sheet-3/IO39 /Sheet-3/IO39-3 AGND /Sheet-3/IO40 /Sheet-3/IO40-3 Net-_K158-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U24 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K154-PadA1_ Net-_K156-PadA1_ Net-_K155-PadA1_ Net-_K157-PadA1_ Net-_K158-PadA1_ Net-_K153-PadA1_ Net-_K160-PadA1_ Net-_K159-PadA1_ ULN2803APG
+K157 AGND /Sheet-3/IO41 /Sheet-3/IO41-3 AGND /Sheet-3/IO42 /Sheet-3/IO42-3 Net-_K157-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K153 AGND /Sheet-3/IO37 /Sheet-3/IO37-3 AGND /Sheet-3/IO38 /Sheet-3/IO38-3 Net-_K153-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K159 AGND /Sheet-3/IO33 /Sheet-3/IO33-3 AGND /Sheet-3/IO34 /Sheet-3/IO34-3 Net-_K159-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K160 AGND /Sheet-3/IO35 /Sheet-3/IO35-3 AGND /Sheet-3/IO36 /Sheet-3/IO36-3 Net-_K160-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K154 AGND /Sheet-3/IO47 /Sheet-3/IO47-3 AGND /Sheet-3/IO48 /Sheet-3/IO48-3 Net-_K154-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K156 AGND /Sheet-3/IO45 /Sheet-3/IO45-3 AGND /Sheet-3/IO46 /Sheet-3/IO46-3 Net-_K156-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K155 AGND /Sheet-3/IO43 /Sheet-3/IO43-3 AGND /Sheet-3/IO44 /Sheet-3/IO44-3 Net-_K155-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K183 AGND /Sheet-3/IO113 /Sheet-3/IO113-3 AGND /Sheet-3/IO114 /Sheet-3/IO114-3 Net-_K183-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K186 AGND /Sheet-3/IO111 /Sheet-3/IO111-3 AGND /Sheet-3/IO112 /Sheet-3/IO112-3 Net-_K186-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K190 AGND /Sheet-3/IO103 /Sheet-3/IO103-3 AGND /Sheet-3/IO104 /Sheet-3/IO104-3 Net-_K190-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K189 AGND /Sheet-3/IO105 /Sheet-3/IO105-3 AGND /Sheet-3/IO106 /Sheet-3/IO106-3 Net-_K189-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U28 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K186-PadA1_ Net-_K188-PadA1_ Net-_K187-PadA1_ Net-_K189-PadA1_ Net-_K190-PadA1_ Net-_K185-PadA1_ Net-_K192-PadA1_ Net-_K191-PadA1_ ULN2803APG
+K192 AGND /Sheet-3/IO99 /Sheet-3/IO99-3 AGND /Sheet-3/IO100 /Sheet-3/IO100-3 Net-_K192-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K185 AGND /Sheet-3/IO101 /Sheet-3/IO101-3 AGND /Sheet-3/IO102 /Sheet-3/IO102-3 Net-_K185-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K191 AGND /Sheet-3/IO97 /Sheet-3/IO97-3 AGND /Sheet-3/IO98 /Sheet-3/IO98-3 Net-_K191-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K187 AGND /Sheet-3/IO107 /Sheet-3/IO107-3 AGND /Sheet-3/IO108 /Sheet-3/IO108-3 Net-_K187-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K188 AGND /Sheet-3/IO109 /Sheet-3/IO109-3 AGND /Sheet-3/IO110 /Sheet-3/IO110-3 Net-_K188-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K134 AGND /Sheet-3/IO23 /Sheet-3/IO23-3 AGND /Sheet-3/IO24 /Sheet-3/IO24-3 Net-_K134-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K129 AGND /Sheet-3/IO21 /Sheet-3/IO21-3 AGND /Sheet-3/IO22 /Sheet-3/IO22-3 Net-_K129-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K132 AGND /Sheet-3/IO29 /Sheet-3/IO29-3 AGND /Sheet-3/IO30 /Sheet-3/IO30-3 Net-_K132-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K130 AGND /Sheet-3/IO31 /Sheet-3/IO31-3 AGND /Sheet-3/IO32 /Sheet-3/IO32-3 Net-_K130-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K131 AGND /Sheet-3/IO27 /Sheet-3/IO27-3 AGND /Sheet-3/IO28 /Sheet-3/IO28-3 Net-_K131-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U21 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K130-PadA1_ Net-_K132-PadA1_ Net-_K131-PadA1_ Net-_K133-PadA1_ Net-_K134-PadA1_ Net-_K129-PadA1_ Net-_K136-PadA1_ Net-_K135-PadA1_ ULN2803APG
+K133 AGND /Sheet-3/IO25 /Sheet-3/IO25-3 AGND /Sheet-3/IO26 /Sheet-3/IO26-3 Net-_K133-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K141 AGND /Sheet-3/IO9 /Sheet-3/IO9-3 AGND /Sheet-3/IO10 /Sheet-3/IO10-3 Net-_K141-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U22 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K138-PadA1_ Net-_K140-PadA1_ Net-_K139-PadA1_ Net-_K141-PadA1_ Net-_K142-PadA1_ Net-_K137-PadA1_ Net-_K144-PadA1_ Net-_K143-PadA1_ ULN2803APG
+K144 AGND /Sheet-3/IO3 /Sheet-3/IO3-3 AGND /Sheet-3/IO4 /Sheet-3/IO4-3 Net-_K144-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K142 AGND /Sheet-3/IO7 /Sheet-3/IO7-3 AGND /Sheet-3/IO8 /Sheet-3/IO8-3 Net-_K142-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K137 AGND /Sheet-3/IO5 /Sheet-3/IO5-3 AGND /Sheet-3/IO6 /Sheet-3/IO6-3 Net-_K137-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K143 AGND /Sheet-3/IO1 /Sheet-3/IO1-3 AGND /Sheet-3/IO2 /Sheet-3/IO2-3 Net-_K143-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K140 AGND /Sheet-3/IO13 /Sheet-3/IO13-3 AGND /Sheet-3/IO14 /Sheet-3/IO14-3 Net-_K140-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K139 AGND /Sheet-3/IO11 /Sheet-3/IO11-3 AGND /Sheet-3/IO12 /Sheet-3/IO12-3 Net-_K139-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K138 AGND /Sheet-3/IO15 /Sheet-3/IO15-3 AGND /Sheet-3/IO16 /Sheet-3/IO16-3 Net-_K138-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K152 AGND /Sheet-3/IO51 /Sheet-3/IO51-3 AGND /Sheet-3/IO52 /Sheet-3/IO52-3 Net-_K152-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K151 AGND /Sheet-3/IO49 /Sheet-3/IO49-3 AGND /Sheet-3/IO50 /Sheet-3/IO50-3 Net-_K151-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K146 AGND /Sheet-3/IO63 /Sheet-3/IO63-3 AGND /Sheet-3/IO64 /Sheet-3/IO64-3 Net-_K146-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K148 AGND /Sheet-3/IO61 /Sheet-3/IO61-3 AGND /Sheet-3/IO62 /Sheet-3/IO62-3 Net-_K148-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U23 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K146-PadA1_ Net-_K148-PadA1_ Net-_K147-PadA1_ Net-_K149-PadA1_ Net-_K150-PadA1_ Net-_K145-PadA1_ Net-_K152-PadA1_ Net-_K151-PadA1_ ULN2803APG
+K147 AGND /Sheet-3/IO59 /Sheet-3/IO59-3 AGND /Sheet-3/IO60 /Sheet-3/IO60-3 Net-_K147-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K149 AGND /Sheet-3/IO57 /Sheet-3/IO57-3 AGND /Sheet-3/IO58 /Sheet-3/IO58-3 Net-_K149-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K150 AGND /Sheet-3/IO55 /Sheet-3/IO55-3 AGND /Sheet-3/IO56 /Sheet-3/IO56-3 Net-_K150-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K145 AGND /Sheet-3/IO53 /Sheet-3/IO53-3 AGND /Sheet-3/IO54 /Sheet-3/IO54-3 Net-_K145-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K136 AGND /Sheet-3/IO19 /Sheet-3/IO19-3 AGND /Sheet-3/IO20 /Sheet-3/IO20-3 Net-_K136-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K135 AGND /Sheet-3/IO17 /Sheet-3/IO17-3 AGND /Sheet-3/IO18 /Sheet-3/IO18-3 Net-_K135-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K174 AGND /Sheet-3/IO87 /Sheet-3/IO87-3 AGND /Sheet-3/IO88 /Sheet-3/IO88-3 Net-_K174-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K175 AGND /Sheet-3/IO81 /Sheet-3/IO81-3 AGND /Sheet-3/IO82 /Sheet-3/IO82-3 Net-_K175-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K176 AGND /Sheet-3/IO83 /Sheet-3/IO83-3 AGND /Sheet-3/IO84 /Sheet-3/IO84-3 Net-_K176-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K169 AGND /Sheet-3/IO85 /Sheet-3/IO85-3 AGND /Sheet-3/IO86 /Sheet-3/IO86-3 Net-_K169-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U26 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K170-PadA1_ Net-_K172-PadA1_ Net-_K171-PadA1_ Net-_K173-PadA1_ Net-_K174-PadA1_ Net-_K169-PadA1_ Net-_K176-PadA1_ Net-_K175-PadA1_ ULN2803APG
+K173 AGND /Sheet-3/IO89 /Sheet-3/IO89-3 AGND /Sheet-3/IO90 /Sheet-3/IO90-3 Net-_K173-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K171 AGND /Sheet-3/IO91 /Sheet-3/IO91-3 AGND /Sheet-3/IO92 /Sheet-3/IO92-3 Net-_K171-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K172 AGND /Sheet-3/IO93 /Sheet-3/IO93-3 AGND /Sheet-3/IO94 /Sheet-3/IO94-3 Net-_K172-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K170 AGND /Sheet-3/IO95 /Sheet-3/IO95-3 AGND /Sheet-3/IO96 /Sheet-3/IO96-3 Net-_K170-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+U25 SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT SH3SELECT DGND /Sheet-3/+12V Net-_K162-PadA1_ Net-_K164-PadA1_ Net-_K163-PadA1_ Net-_K165-PadA1_ Net-_K166-PadA1_ Net-_K161-PadA1_ Net-_K168-PadA1_ Net-_K167-PadA1_ ULN2803APG
+K165 AGND /Sheet-3/IO73 /Sheet-3/IO73-3 AGND /Sheet-3/IO74 /Sheet-3/IO74-3 Net-_K165-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K162 AGND /Sheet-3/IO79 /Sheet-3/IO79-3 AGND /Sheet-3/IO80 /Sheet-3/IO80-3 Net-_K162-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K167 AGND /Sheet-3/IO65 /Sheet-3/IO65-3 AGND /Sheet-3/IO66 /Sheet-3/IO66-3 Net-_K167-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K166 AGND /Sheet-3/IO71 /Sheet-3/IO71-3 AGND /Sheet-3/IO72 /Sheet-3/IO72-3 Net-_K166-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K168 AGND /Sheet-3/IO67 /Sheet-3/IO67-3 AGND /Sheet-3/IO68 /Sheet-3/IO68-3 Net-_K168-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K161 AGND /Sheet-3/IO69 /Sheet-3/IO69-3 AGND /Sheet-3/IO70 /Sheet-3/IO70-3 Net-_K161-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K163 AGND /Sheet-3/IO75 /Sheet-3/IO75-3 AGND /Sheet-3/IO76 /Sheet-3/IO76-3 Net-_K163-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+K164 AGND /Sheet-3/IO77 /Sheet-3/IO77-3 AGND /Sheet-3/IO78 /Sheet-3/IO78-3 Net-_K164-PadA1_ /Sheet-3/+12V MR_DPDT12_2P
+.end

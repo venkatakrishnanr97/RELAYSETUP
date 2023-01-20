@@ -1,0 +1,2 @@
+C:\Cadence\SPB_17.4\share\pcb\pcb_lib\symbols
+File Location (CADENCE FOOTPRINT)

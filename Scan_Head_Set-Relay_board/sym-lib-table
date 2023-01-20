@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ULN2803APG")(type "KiCad")(uri "F:/VK/Artix_FPGA_7 _PROJ/Artix_Processor/ULN2803APG.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Artix")(type "KiCad")(uri "F:/VK/Artix_FPGA_7 _PROJ/Artix_Processor/Connector_Artix.kicad_sym")(options "")(descr ""))
+)
